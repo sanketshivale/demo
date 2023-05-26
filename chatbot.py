@@ -10,7 +10,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
   
 # Give a name to the chatbot “corona bot”
 # and assign a trainer component.
-chatbot=ChatBot('corona bot')
+chatbot=ChatBot('Name')
  
 # Create a new trainer for the chatbot
 trainer = ChatterBotCorpusTrainer(chatbot)
